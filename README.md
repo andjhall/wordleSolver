@@ -7,7 +7,7 @@ Created by Andrew Hall <andjhall@umich.edu>
 
 ## Quick start
 ```console
-$ git clone
+$ git clone https://github.com/andjhall/wordleSolver.git
 $ cd wordleSolver
 $ python3 wordleSolver.py
 ```
